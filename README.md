@@ -1,5 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/33036dfb-7131-462c-a5ac-d4cdf98cd207" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2137ef71-9ac8-4020-9749-33a64edd0f28" />
+
 # Enterprise RAG AI Agent System (n8n, Supabase pgvector & Gemini)
 
 A production-grade, end-to-end Retrieval-Augmented Generation (RAG) system built with **n8n**, **Supabase (`pgvector`)**, and **Google Gemini**. The system automates document ingestion from Google Drive, performs dynamic text chunking, stores high-dimensional embeddings, and provides context-aware answers through an interactive AI Chat Agent.
@@ -34,7 +33,8 @@ The project consists of two core workflows linked via a shared Supabase database
 * **LLM & Reasoning**: Google Gemini / OpenRouter AI
 * **Document Ingestion**: Google Drive API
 * **Deployment Environment**: Docker Desktop (Windows) with `ngrok` Webhook Tunneling
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/33036dfb-7131-462c-a5ac-d4cdf98cd207" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2137ef71-9ac8-4020-9749-33a64edd0f28" />
 ---
 
 ## ⚙️ Database Setup (Supabase SQL)
